@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);你好👋！我是xin1🙌!&center=true&size=25)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);你好👋！我是KaiYuan🙌!&center=true&size=25)](https://git.io/typing-svg)
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
